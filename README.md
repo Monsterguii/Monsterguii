@@ -1,7 +1,7 @@
 # Opa, tranquilo ? Bem vindo ao meu perfil! Meu nome é Guilherme Dias, muito prazer(colocar emoji de mão)
 
 <p align="center">
-  <a href="https://github.com/seu-username">
+  <a href="https://github.com/Monsterguii">
     <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" />
   </a>
