@@ -1,4 +1,4 @@
-# Opa, tranquilo ? Bem vindo ao meu perfil! Meu nome é Guilherme Dias, muito prazer 👋
+<p align="center"> # Opa, tranquilo ? Meu nome é Guilherme Dias, muito prazer 👋</p>
 
 <p align="center">
   <a href="https://github.com/Monsterguii">
@@ -16,6 +16,6 @@
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/guilherme-dias-53266b29a/) | [guilhermediasfp1@gmail.com](mailto:guilhermediasfp1@gmail.com) 
 
 ---
-[![Estatísticas do GitHub de Guilherme Dias](https://github-readme-stats.vercel.app/api?username=Monsterguii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Monsterguii)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsterguii&layout=compact&langs_count=7&theme=dracula)](https://github.com/Monsterguii)
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monsterguii&theme=dracula" alt="Gráfico de Commits do GitHub" />
