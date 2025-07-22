@@ -72,4 +72,4 @@
 - 💬 Peça-me ajuda com **C#**, **Java**, **Python** ou o que precisar
 
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monsterguii&theme=dracula" alt="Gráfico de Commits do GitHub" />
+![Animação de Cobra das Contribuições](https://raw.githubusercontent.com/Monsterguii/Monsterguii/output/github-contribution-grid-snake-dark.svg)
